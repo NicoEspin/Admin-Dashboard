@@ -4,9 +4,9 @@ import { motion } from "framer-motion";
 import Header from "../components/common/Header";
 import StatCard from "../components/common/StatCard";
 import UsersTable from "../components/Users/UsersTable";
-import UserGrowthChart from "../components/users/UserGrowthChart";
-import UserActivityHeatmap from "../components/users/UserActivityHeatmap";
-import UserDemographicsChart from "../components/users/UserDemographicsChart";
+import UserGrowthChart from "../components/Users/UserGrowthChart";
+import UserActivityHeatmap from "../components/Users/UserActivityHeatmap";
+import UserDemographicsChart from "../components/Users/UserDemographicsChart";
 
 const userStats = {
   totalUsers: 152845,
